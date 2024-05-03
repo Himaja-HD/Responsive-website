@@ -1,0 +1,28 @@
+
+body{
+    overflow-x: hidden;
+}
+
+#Menu{
+background-color: rgb(227, 205, 5);
+float: left;
+}
+
+#follow{
+    background-color: rgb(227, 205, 5);
+}
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+  }
+  .icon {
+    color: #d0b200;
+    font-size: 35px;
+  }
