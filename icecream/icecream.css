@@ -26,3 +26,9 @@ float: left;
     color: #d0b200;
     font-size: 35px;
   }
+  .borderimg2{ 
+    background-image: url(grass.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
