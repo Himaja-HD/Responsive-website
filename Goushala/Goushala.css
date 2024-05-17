@@ -3,7 +3,26 @@
     width: 8px !important;
     height: 8px !important;
 }
+ .about-us{
+    position: relative;
+    left:70%;
+    top:55%;
+    /* animation-name: example;
+    animation-duration: 3s;  
+    animation-delay: 2s;
+    animation-fill-mode: both; */
+  } 
+  
+ /* @keyframes example {
+    from {right: 0px; }
+    to {right: 200px; }
+  }  */
 
+.abous_us_page{
+    border-image: url(border-9.png) round;
+    border: solid 40px transparent;
+
+}
 .nav-item > a{
     color:white;
 }
@@ -33,5 +52,18 @@ footer{
     transform: rotate(45deg);
     border: solid 5px #faf7e8;
     position: absolute;
-    z-index: ;
   }
+
+ .first{
+  height: 80px;
+  }
+
+  .first::first-letter{
+    font-size: 3rem;
+    float:left;
+    margin-top:-1.2rem;
+    color: brown;
+   font-family: cursive;
+  }
+
+  
