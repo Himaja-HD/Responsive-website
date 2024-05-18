@@ -1,0 +1,69 @@
+.carousel-indicators > button {
+    border-radius: 50%;
+    width: 8px !important;
+    height: 8px !important;
+}
+ .about-us{
+    position: relative;
+    left:70%;
+    top:55%;
+    /* animation-name: example;
+    animation-duration: 3s;  
+    animation-delay: 2s;
+    animation-fill-mode: both; */
+  } 
+  
+ /* @keyframes example {
+    from {right: 0px; }
+    to {right: 200px; }
+  }  */
+
+.abous_us_page{
+    border-image: url(border-9.png) round;
+    border: solid 40px transparent;
+
+}
+.nav-item > a{
+    color:white;
+}
+footer{
+    background-image: url(foot\ back.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 35px;
+    height: 35px;
+    border-radius:15px;
+    margin: 10px;
+    padding-top: 6px;
+    padding-bottom:0px;
+    padding-right: 8px;
+    padding-left: 10px;
+
+  }
+  .square{
+    width:160px;
+    height:160px;
+    border-radius: 10px;
+    transform: rotate(45deg);
+    border: solid 5px #faf7e8;
+    position: absolute;
+  }
+
+ .first{
+  height: 80px;
+  }
+
+  .first::first-letter{
+    font-size: 3rem;
+    float:left;
+    margin-top:-1.2rem;
+    color: brown;
+   font-family: cursive;
+  }
+
+  
